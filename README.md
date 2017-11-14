@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/stabenfeldt/TypeScript-React-Native-Starter.svg?style=svg)](https://circleci.com/gh/stabenfeldt/TypeScript-React-Native-Starter)
+
 # TypeScript React Native Starter
 
 # Prerequisites
